@@ -5,104 +5,89 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 20px;
     }
+
     h1 {
-      color: #333;
       text-align: center;
     }
-    h2 {
-      color: #666;
-    }
+
     .container {
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-between;
+      justify-content: center;
+      align-items: center;
     }
-    .picture {
-      width: 200px;
-      height: auto;
-      background-color: #ccc;
-      margin-right: 20px;
-    }
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
+
     .section {
-      width: calc(50% - 10px);
-      margin-bottom: 30px;
+      flex-basis: 100%;
+      margin-bottom: 20px;
     }
-    .publications, .activities {
-      background-color: #f5f5f5;
-      padding: 20px;
-      border-radius: 5px;
-    }
-    .item {
+
+    .section-header {
+      font-size: 24px;
+      font-weight: bold;
       margin-bottom: 10px;
     }
-    .item .title {
-      font-weight: bold;
+
+    .section-content {
+      margin-left: 20px;
     }
-    .introduction {
-      line-height: 1.5;
+
+    .section-content ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+
+    .section-content li {
+      margin-bottom: 10px;
+    }
+
+    .section-image {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 20px;
     }
   </style>
 </head>
 <body>
-  <h1>Academic Homepage</h1>
-
   <div class="container">
-    <div class="picture">
-      <img src="yuewen.jpg" alt="Your Picture">
-    </div>
-    
-    <div class="section introduction">
-      <h2>Self-Introduction</h2>
-      <p>
-        Hello, my name is [Your Name]. I am a researcher in the field of [Your Field]. 
-        I have a passion for [Research Area 1] and [Research Area 2]. 
-        My work focuses on [Research Topic 1] and [Research Topic 2].
-      </p>
-      <p>
-        I obtained my [Degree] in [Field] from [University/Organization]. 
-        Currently, I am affiliated with [University/Organization] as a [Position/Title].
-      </p>
+    <div class="section">
+      <div class="section-image">
+        <img src="yuewen.jpg" alt="Profile Picture">
+      </div>
+      <div class="section-content">
+        <h1>About Me</h1>
+        <p>
+          Insert your bio or description here. Write a brief overview of your academic background, research interests, and any other relevant information.
+        </p>
+      </div>
     </div>
 
-    <div class="section publications">
-      <h2>Publications</h2>
-      <div class="item">
-        <div class="title">Publication Title 1</div>
-        <div class="authors">Author A, Author B</div>
-        <div class="journal">Journal of XYZ</div>
-        <div class="year">2022</div>
+    <div class="section">
+      <div class="section-header">Publications</div>
+      <div class="section-content">
+        <ul>
+          <li>Publication 1</li>
+          <li>Publication 2</li>
+          <li>Publication 3</li>
+          <!-- Add more publications as needed -->
+        </ul>
       </div>
-      <div class="item">
-        <div class="title">Publication Title 2</div>
-        <div class="authors">Author C, Author D</div>
-        <div class="journal">Journal of ABC</div>
-        <div class="year">2023</div>
-      </div>
-      <!-- Add more publications as needed -->
     </div>
 
-    <div class="section activities">
-      <h2>Academic Activities</h2>
-      <div class="item">
-        <div class="title">Activity Title 1</div>
-        <div class="description">Description of Activity 1</div>
-        <div class="date">Date of Activity 1</div>
+    <div class="section">
+      <div class="section-header">Academic Activities</div>
+      <div class="section-content">
+        <ul>
+          <li>Conference 1</li>
+          <li>Workshop 2</li>
+          <li>Seminar 3</li>
+          <!-- Add more academic activities as needed -->
+        </ul>
       </div>
-      <div class="item">
-        <div class="title">Activity Title 2</div>
-        <div class="description">Description of Activity 2</div>
-        <div class="date">Date of Activity 2</div>
-      </div>
-      <!-- Add more activities as needed -->
     </div>
   </div>
-
 </body>
 </html>

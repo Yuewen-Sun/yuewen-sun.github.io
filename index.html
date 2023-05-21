@@ -16,43 +16,33 @@
     }
     .container {
       display: flex;
-      align-items: flex-start;
+      flex-wrap: wrap;
       justify-content: space-between;
     }
     .picture {
-      width: 50px;
-      height: 50px;
+      width: 200px;
+      height: auto;
       background-color: #ccc;
       margin-right: 20px;
     }
     img {
-      max-width: 100%;
-      max-height: 100%;
+      width: 100%;
+      height: 100%;
       object-fit: cover;
     }
     .section {
+      width: calc(50% - 10px);
       margin-bottom: 30px;
     }
-    .publications {
+    .publications, .activities {
       background-color: #f5f5f5;
       padding: 20px;
       border-radius: 5px;
     }
-    .publication {
+    .item {
       margin-bottom: 10px;
     }
-    .publication .title {
-      font-weight: bold;
-    }
-    .activities {
-      background-color: #f5f5f5;
-      margin-top: 20px;
-      border-radius: 5px;
-    }
-    .activity {
-      margin-bottom: 10px;
-    }
-    .activity .title {
+    .item .title {
       font-weight: bold;
     }
     .introduction {
@@ -61,55 +51,57 @@
   </style>
 </head>
 <body>
-  <h1>Yuewen Sun</h1>
-  
+  <h1>Academic Homepage</h1>
+
   <div class="container">
     <div class="picture">
       <img src="yuewen.jpg" alt="Your Picture">
     </div>
+    
+    <div class="section introduction">
+      <h2>Self-Introduction</h2>
+      <p>
+        Hello, my name is [Your Name]. I am a researcher in the field of [Your Field]. 
+        I have a passion for [Research Area 1] and [Research Area 2]. 
+        My work focuses on [Research Topic 1] and [Research Topic 2].
+      </p>
+      <p>
+        I obtained my [Degree] in [Field] from [University/Organization]. 
+        Currently, I am affiliated with [University/Organization] as a [Position/Title].
+      </p>
+    </div>
 
-  <div class="section introduction">
-    <h2>About Me</h2>
-    <p>
-     Welcome to Yuewen's homepage! I am currently a Postdoc Researcher at MBZUAI & CMU, working with Prof. Kun Zhang. 
-    </p>
-    <p>
-      I obtained my Ph.D. degree in Control Science and Engineering from Southeast University. 
-    </p>
-    <p>
-      My research interests lie in reinforcement learning, causal discovery, and representation learning.
-    </p>
-  </div>
-
-  <div class="section publications">
-    <h2>Selected Publications</h2>
-    <div class="publication">
-        <div class="title">Model-Based Transfer Reinforcement Learning Based on Graphical Model Representations</div>
-        <div class="authors">Yuewen Sun, Changyin Sun, Kun Zhang</div>
-        <div class="journal">IEEE Transactions on Neural Networks and Learning Systems, 2023</div>
-        <div class="year"></div>
+    <div class="section publications">
+      <h2>Publications</h2>
+      <div class="item">
+        <div class="title">Publication Title 1</div>
+        <div class="authors">Author A, Author B</div>
+        <div class="journal">Journal of XYZ</div>
+        <div class="year">2022</div>
       </div>
-      <div class="publication">
-      <div class="title">Learning Temporally Causal Latent Processes from General Temporal Data</div>
-      <div class="authors">Weiran Yao*, Yuewen Sun*, Alex Ho, Changyin Sun, Kun Zhang</div>
-      <div class="journal">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
-      <div class="year"></div>
+      <div class="item">
+        <div class="title">Publication Title 2</div>
+        <div class="authors">Author C, Author D</div>
+        <div class="journal">Journal of ABC</div>
+        <div class="year">2023</div>
+      </div>
+      <!-- Add more publications as needed -->
     </div>
-    <!-- Add more publications as needed -->
-  </div>
 
-  <div class="section activities">
-    <h2>Academic Activities</h2>
-    <div class="activity">
-      <div class="title">Presentation <a href="https://iclr.cc/virtual/2022/poster/6675">Link</a></div>
-      <div class="event">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
-      <!-- <div class="location"></div> -->
+    <div class="section activities">
+      <h2>Academic Activities</h2>
+      <div class="item">
+        <div class="title">Activity Title 1</div>
+        <div class="description">Description of Activity 1</div>
+        <div class="date">Date of Activity 1</div>
+      </div>
+      <div class="item">
+        <div class="title">Activity Title 2</div>
+        <div class="description">Description of Activity 2</div>
+        <div class="date">Date of Activity 2</div>
+      </div>
+      <!-- Add more activities as needed -->
     </div>
-    <div class="activity">
-      <div class="title">Reviewer</div>
-      <div class="event">UAI 2022(Top Reviewer), IEEE Transactions on Neural Networks and Learning Systems, ACM Computing Surveys, and so on.</div>
-    </div>
-    <!-- Add more activities as needed -->
   </div>
 
 </body>

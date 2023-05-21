@@ -8,14 +8,23 @@
             margin-bottom: 20px;
         }
         .column {
-            flex: 50%;
+            flex: 1;
+        }
+        .picture {
+            flex: 0.3; /* adjust this to change the width of the picture relative to the About Me section */
+        }
+        .about-me {
+            flex: 0.7; /* adjust this to change the width of the About Me section relative to the picture */
         }
         img {
             max-width: 100%;
-            height: 100px;
+            height: auto;
         }
         h2 {
             color: #000099;
+        }
+        p {
+            text-align: justify;
         }
         .publications {
           background-color: #f5f5f5;
@@ -28,38 +37,35 @@
         .publication .title {
           font-weight: bold;
         }
-        p {
-            text-align: justify;
-        }
     </style>
 </head>
 <body>
     <div class="row">
-        <div class="column">
+        <div class="column picture">
             <img src="yuewen.jpg" alt="Your Name">
         </div>
-        <div class="column">
-            <h2> About Me </h2>
-            <p> Welcome to Yuewen's homepage! I am currently a Postdoc Researcher at MBZUAI & CMU, working with Prof. Kun Zhang. </p>
-            <p> I obtained my Ph.D. degree in Control Science and Engineering from Southeast University. </p>
-            <p> My research interests lie in reinforcement learning, causal discovery, and representation learning. </p>
+        <div class="column about-me">
+            <h2>About Me</h2>
+            <p>Your bio goes here...</p>
         </div>
     </div>
     <div class="row">
         <div class="column">
             <h2>Selected Publications</h2>
-            <div class="publication">
-              <div class="title">Model-Based Transfer Reinforcement Learning Based on Graphical Model Representations</div>
-              <div class="authors">Yuewen Sun, Changyin Sun, Kun Zhang</div>
-              <div class="journal">IEEE Transactions on Neural Networks and Learning Systems, 2023</div>
-              <div class="year"></div>
-            </div>
-            <div class="publication">
-            <div class="title">Learning Temporally Causal Latent Processes from General Temporal Data</div>
-            <div class="authors">Weiran Yao*, Yuewen Sun*, Alex Ho, Changyin Sun, Kun Zhang</div>
-            <div class="journal">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
-            <div class="year"></div>
-          </div>
+            <ul>
+                <div class="publication">
+                  <div class="title">Model-Based Transfer Reinforcement Learning Based on Graphical Model Representations</div>
+                  <div class="authors">Yuewen Sun, Changyin Sun, Kun Zhang</div>
+                  <div class="journal">IEEE Transactions on Neural Networks and Learning Systems, 2023</div>
+                  <div class="year"></div>
+                </div>
+                <div class="publication">
+                <div class="title">Learning Temporally Causal Latent Processes from General Temporal Data</div>
+                <div class="authors">Weiran Yao*, Yuewen Sun*, Alex Ho, Changyin Sun, Kun Zhang</div>
+                <div class="journal">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
+                <div class="year"></div>
+              </div>
+            </ul>
         </div>
     </div>
     <div class="row">

@@ -18,7 +18,7 @@
         }
         img {
             max-width: 100%;
-            height: auto;
+            height: 200px;
         }
         h2 {
             color: #000099;
@@ -35,6 +35,17 @@
           margin-bottom: 10px;
         }
         .publication .title {
+          font-weight: bold;
+        }
+        .activities {
+          background-color: #f5f5f5;
+          margin-top: 20px;
+          border-radius: 5px;
+        }
+        .activity {
+          margin-bottom: 10px;
+        }
+        .activity .title {
           font-weight: bold;
         }
     </style>
@@ -74,10 +85,15 @@
         <div class="column">
             <h2>Academic Activities</h2>
             <ul>
-                <li>Activity 1</li>
-                <li>Activity 2</li>
-                <li>Activity 3</li>
-                <!-- Add more as needed -->
+              <div class="activity">
+                <div class="title">Presentation <a href="https://iclr.cc/virtual/2022/poster/6675">Link</a></div>
+                <div class="event">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
+                <!-- <div class="location"></div> -->
+              </div>
+              <div class="activity">
+                <div class="title">Reviewer</div>
+                <div class="event">UAI 2022(Top Reviewer), IEEE Transactions on Neural Networks and Learning Systems, ACM Computing Surveys, and so on.</div>
+              </div>
             </ul>
         </div>
     </div>

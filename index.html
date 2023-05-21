@@ -1,106 +1,58 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Academic Homepage</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-
-    h1 {
-      text-align: center;
-    }
-
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .section {
-      flex-basis: 100%;
-      margin-bottom: 20px;
-    }
-
-    .section-header {
-      font-size: 24px;
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-
-    .section-content {
-      margin-left: 20px;
-    }
-
-    .section-content ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-
-    .section-content li {
-      margin-bottom: 10px;
-    }
-
-    .section-image {
-      width: auto;
-      height: 5px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin-right: 20px;
-    }
-  </style>
+    <title>Academic Homepage</title>
+    <style>
+        .row {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        .column {
+            flex: 50%;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        h2 {
+            color: #000099;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
 </head>
 <body>
-  <h1>Yuewen Sun</h1>
-
-  <div class="container">
-    <div class="section">
-      <div class="section-image">
-        <img src="yuewen.jpg" alt="Profile Picture">
-      </div>
-      <div class="section-content">
-        <h1>About Me</h1>
-        <p>
-          Insert your bio or description here. Write a brief overview of your academic background, research interests, and any other relevant information.
-        </p>
-      </div>
+    <div class="row">
+        <div class="column">
+            <img src="yuewen.jpg" alt="Your Name">
+        </div>
+        <div class="column">
+            <h2>About Me</h2>
+            <p>Your bio goes here...</p>
+        </div>
     </div>
-
-    <div class="section">
-      <div class="section-header">Selected Publications</div>
-      <div class="section-content">
-        <div class="title">Model-Based Transfer Reinforcement Learning Based on Graphical Model Representations</div>
-        <div class="authors">Yuewen Sun, Changyin Sun, Kun Zhang</div>
-        <div class="journal">IEEE Transactions on Neural Networks and Learning Systems, 2023</div>
-        <div class="year"></div>
-      </div>
-      <div class="publication">
-      <div class="title">Learning Temporally Causal Latent Processes from General Temporal Data</div>
-      <div class="authors">Weiran Yao*, Yuewen Sun*, Alex Ho, Changyin Sun, Kun Zhang</div>
-      <div class="journal">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
-      <div class="year"></div>
+    <div class="row">
+        <div class="column">
+            <h2>Publications</h2>
+            <ul>
+                <li>Publication 1</li>
+                <li>Publication 2</li>
+                <li>Publication 3</li>
+                <!-- Add more as needed -->
+            </ul>
+        </div>
     </div>
-    <!-- Add more publications as needed -->
-  </div>
-
-    <div class="section">
-      <div class="section-header">Academic Activities</div>
-      <div class="section-content">
-        <ul>
-          <li>
-            <strong>Conference 1:</strong> Details of conference 1.
-          </li>
-          <li>
-            <strong>Conference 2:</strong> Details of conference 2.
-          </li>
-          <li>
-            <strong>Conference 3:</strong> Details of conference 3.
-          </li>
-          <!-- Add more academic activities as needed -->
-        </ul>
-      </div>
+    <div class="row">
+        <div class="column">
+            <h2>Academic Activities</h2>
+            <ul>
+                <li>Activity 1</li>
+                <li>Activity 2</li>
+                <li>Activity 3</li>
+                <!-- Add more as needed -->
+            </ul>
+        </div>
     </div>
-  </div>
 </body>
 </html>

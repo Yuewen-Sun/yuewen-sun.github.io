@@ -14,10 +14,21 @@
     h2 {
       color: #666;
     }
-    img {
+    .container {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+    .picture {
       width: 200px;
-      border-radius: 50%;
+      height: 200px;
+      background-color: #ccc;
       margin-right: 20px;
+    }
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: cover;
     }
     .section {
       margin-bottom: 30px;
@@ -88,9 +99,9 @@
   <div class="section activities">
     <h2>Academic Activities</h2>
     <div class="activity">
-      <div class="title">Conference Presentation</div>
+      <div class="title">Presentation<a href="https://iclr.cc/virtual/2022/poster/6675">Link</a></div>
       <div class="event">The Tenth International Conference on Learning Representations (ICLR), 2022</div>
-      <div class="location"><a href="https://iclr.cc/virtual/2022/poster/6675">Virtual Link</a></div>
+      <!-- <div class="location"></div> -->
     </div>
     <div class="activity">
       <div class="title">Reviewer</div>

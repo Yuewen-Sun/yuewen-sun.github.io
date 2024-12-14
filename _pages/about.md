@@ -46,7 +46,7 @@ My research interest includes causal representation learning and reinforcement l
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Experience
+# 💼 Experience
 - *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI, UAE. 
 
 # 📖 Educations

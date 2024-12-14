@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Postdoctoral Researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Prof. Kun Zhang. I received my Ph.D. from Southeast University under the supervision of Prof. Changyin Sun.
 
-My research interest includes causal representation learning and reinforcement learning. I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes causal representation learning and reinforcement learning. I have published papers <a href='https://scholar.google.com/citations?user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, AAAI.
 
 
 # 🔥 News

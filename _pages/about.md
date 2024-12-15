@@ -31,9 +31,8 @@ My research interest includes causal representation learning and reinforcement l
 
 # 📝 First Author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="120%" height="120%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Identifying Latent State-Transition Processes for Individualized RL](https://openreview.net/pdf?id=kREpCQtHdN)
 
@@ -43,6 +42,35 @@ My research interest includes causal representation learning and reinforcement l
 - We introduce a novel framework that identifies latent state-transition processes from observed state-action trajectories. 
 - The proposed method effectively captures the latent individual-specific factors, facilitating the learning of personalized RL policies.
 - Theoretical identifiability is guaranteed under both finite and infinite latent factor conditions, supporting the framework’s robustness.
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/acamda_aaai24.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ACAMDA: Improving Data Efficiency in Reinforcement Learning Through Guided Counterfactual Data Augmentation](https://ojs.aaai.org/index.php/AAAI/article/view/29442/30719)
+
+**Yuewen Sun**, Erli Wang, Biwei Huang, Chaochao Lu, Lu Feng, Changyin Sun, Kun Zhang 
+
+[**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/29442) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We analyze the feasibility of temporal causal modelling, utilize counterfactual reasoning to generate guided datasets, and unify them to a policy learner to generate policy making.
+- We combines causal recovery with guided counterfactual data augmentation to realize sequential decision making across heterogeneous environments in a data-driven manner.
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/leap_iclr22.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Learning Temporally Causal Latent Processes from General Temporal Data](https://arxiv.org/abs/2110.05428)
+
+Weiran Yao<sup>\*</sup>, **Yuewen Sun<sup>\*</sup>**, Alex Ho, Changyin Sun, Kun Zhang (<sup>\*</sup>Equal contribution)
+
+[**Project**](https://github.com/weirayao/leap) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose two provable conditions under which temporally causal latent processes can be identified from their observed nonlinear mixtures.
+- We develop a theoretically-grounded training framework that enforces the assumed
+conditions through proper constraints.
+
 
 </div>
 </div>

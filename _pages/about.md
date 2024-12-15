@@ -31,7 +31,7 @@ My research interest includes causal representation learning and reinforcement l
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identifying Latent State-Transition Processes for Individualized Reinforcement Learning](https://openreview.net/pdf?id=kREpCQtHdN)
@@ -39,7 +39,7 @@ My research interest includes causal representation learning and reinforcement l
 **Yuewen Sun**, Biwei Huang, Yu Yao, Donghuo Zeng, Xinshuai Dong, Songyao Jin, Boyang Sun, Roberto Legaspi, Kazushi Ikeda, Peter Spirtes, Kun Zhang
 
 [**Project**](https://openreview.net/forum?id=kREpCQtHdN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This study introduces a novel framework for individualized reinforcement learning that identifies latent state-transition processes from observed state-action trajectories. 
+- We introduce a novel framework that identifies latent state-transition processes from observed state-action trajectories. 
 - The proposed method effectively captures individual-specific latent factors, facilitating the learning of personalized RL policies.
 - Theoretical identifiability is guaranteed under both finite and infinite latent factor conditions, supporting the framework’s robustness.
 

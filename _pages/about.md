@@ -26,7 +26,7 @@ My research interest includes causal representation learning and reinforcement l
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24. 
 - *2024.05*: &nbsp;🎉🎉 I made an invited talk on DataFunSummit2024. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by AAAI'24. 
-- *2023.04*: &nbsp;🎉🎉 I started postdoctoral research at Mohamed Bin Zayed University of Artificial Intelligence and Carnegie Mellon University.
+- *2023.04*: &nbsp;🎉🎉 I started postdoctoral research at MBZUAI and CMU.
 - *2022.08*: &nbsp;🎉🎉 I am a top reviewer of UAI'22.
 
 # 📝 First Author Publications 
@@ -54,8 +54,7 @@ My research interest includes causal representation learning and reinforcement l
 **Yuewen Sun**, Erli Wang, Biwei Huang, Chaochao Lu, Lu Feng, Changyin Sun, Kun Zhang 
 
 [**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/29442) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We employ counterfactual reasoning to generate augmented datasets, enabling agents to make unbiased decisions.
-- We model causal relationships within the system to ensure adaptability across heterogeneous environments.
+- We employ counterfactual reasoning to generate augmented datasets, enabling agents to make unbiased decisions, and model causal relationships within the system to ensure adaptability across heterogeneous environments.
 
 </div>
 </div>

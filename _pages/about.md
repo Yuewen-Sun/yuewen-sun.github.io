@@ -35,16 +35,15 @@ My research interest includes causal representation learning and reinforcement l
 <div class='paper-box-text' markdown="1"> -->
 
 <div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">NeurIPS 2024</div>
-            <img src='images/imdp_neurips24.png' alt="sym" style="height: 150%; width: auto;">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-    </div>
+<div class='paper-box-image'>
+<div>
+<div class="badge">NeurIPS 2024</div>
+<img src='images/imdp_neurips24.png' alt="sym" style="height: 150%; width: auto;">
 </div>
-
+</div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
 
 [Identifying Latent State-Transition Processes for Individualized Reinforcement Learning](https://openreview.net/pdf?id=kREpCQtHdN)
 

@@ -43,6 +43,8 @@ My research interest includes causal representation learning and reinforcement l
 - The proposed method effectively captures the latent individual-specific factors, facilitating the learning of personalized RL policies.
 - Theoretical identifiability is guaranteed under both finite and infinite latent factor conditions, supporting the framework’s robustness.
 
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/acamda_aaai24.png' alt="sym" width="100%" ></div></div>
@@ -56,11 +58,12 @@ My research interest includes causal representation learning and reinforcement l
 - We analyze the feasibility of temporal causal modelling, utilize counterfactual reasoning to generate guided datasets, and unify them to a policy learner to generate policy making.
 - We combines causal recovery with guided counterfactual data augmentation to realize sequential decision making across heterogeneous environments in a data-driven manner.
 
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/leap_iclr22.png' alt="sym" width="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Learning Temporally Causal Latent Processes from General Temporal Data](https://arxiv.org/abs/2110.05428)
 
@@ -70,7 +73,6 @@ Weiran Yao<sup>\*</sup>, **Yuewen Sun<sup>\*</sup>**, Alex Ho, Changyin Sun, Kun
 - We propose two provable conditions under which temporally causal latent processes can be identified from their observed nonlinear mixtures.
 - We develop a theoretically-grounded training framework that enforces the assumed
 conditions through proper constraints.
-
 
 </div>
 </div>

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and Carnegie Mellon University (CMU), supervised by Prof. Kun Zhang. I received my Ph.D. from Southeast University under the supervision of Prof. Changyin Sun.
+I am currently a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and Carnegie Mellon University (CMU), supervised by Prof. Kun Zhang. I received my Ph.D. from Southeast University under the supervision of Prof. Changyin Sun.
 
 My research interest includes causal representation learning and reinforcement learning. I have published papers <a href='https://scholar.google.com/citations?user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, AAAI.
 
@@ -54,8 +54,8 @@ My research interest includes causal representation learning and reinforcement l
 **Yuewen Sun**, Erli Wang, Biwei Huang, Chaochao Lu, Lu Feng, Changyin Sun, Kun Zhang 
 
 [**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/29442) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We use counterfactual reasoning to generate augmented data sets and enable the agent to make unbiased decisions.
-- We use guided counterfactual data augmentation to realize sequential decision making across heterogeneous environments in a data-driven manner.
+- We employ counterfactual reasoning to generate augmented datasets, enabling agents to make unbiased decisions.
+- We model causal relationships within the system to ensure adaptability across heterogeneous environments.
 
 </div>
 </div>
@@ -93,4 +93,5 @@ conditions through proper constraints.
 
 
 # 💬 Invited Talks
-- *2024.05*, Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. \| [\[video\]](https://github.com/)
+- *2024.05*, Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. 
+<!-- - *2024.05*, Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. \| [\[video\]](https://github.com/) -->

@@ -39,8 +39,7 @@ My research interest includes causal representation learning and reinforcement l
 **Yuewen Sun**, Biwei Huang, Yu Yao, Donghuo Zeng, Xinshuai Dong, Songyao Jin, Boyang Sun, Roberto Legaspi, Kazushi Ikeda, Peter Spirtes, Kun Zhang
 
 [**Project**](https://openreview.net/forum?id=kREpCQtHdN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We introduce a novel framework that identifies latent state-transition processes from observed state-action trajectories. 
-- The proposed method effectively captures the latent individual-specific factors, facilitating the learning of personalized RL policies.
+- We aim to identify the latent state-transition processes from observed state-action trajectories, facilitating the learning of personalized RL policies.
 - Theoretical identifiability is guaranteed under both finite and infinite latent factor conditions, supporting the framework’s robustness.
 
 </div>
@@ -55,7 +54,7 @@ My research interest includes causal representation learning and reinforcement l
 **Yuewen Sun**, Erli Wang, Biwei Huang, Chaochao Lu, Lu Feng, Changyin Sun, Kun Zhang 
 
 [**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/29442) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We utilize counterfactual reasoning to generate guided datasets and unify them to a policy learner to generate policy making.
+- We use counterfactual reasoning to generate augmented data sets and enable the agent to make unbiased decisions.
 - We use guided counterfactual data augmentation to realize sequential decision making across heterogeneous environments in a data-driven manner.
 
 </div>

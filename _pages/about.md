@@ -49,7 +49,7 @@ My research interest includes causal representation learning and reinforcement l
 - *2022.08* Top reviewer of UAI'22.
 
 # 💼 Experience
-- *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI, UAE.
+- *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI & CMU.
 - *2021.02 - 2021.10* (Internship), NEC Laboratories, China. 
 
 

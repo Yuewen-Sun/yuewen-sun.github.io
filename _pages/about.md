@@ -31,8 +31,20 @@ My research interest includes causal representation learning and reinforcement l
 
 # 📝 First Author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="120%" height="120%" ></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="120%" height="120%" ></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">NeurIPS 2024</div>
+            <img src='images/imdp_neurips24.png' alt="sym" style="height: 120%; width: auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+    </div>
+</div>
+
 
 [Identifying Latent State-Transition Processes for Individualized Reinforcement Learning](https://openreview.net/pdf?id=kREpCQtHdN)
 

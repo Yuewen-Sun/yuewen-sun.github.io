@@ -29,10 +29,22 @@ My research interest includes causal representation learning and reinforcement l
 - *2023.04*: &nbsp;🎉🎉 I started postdoctoral research at Mohamed Bin Zayed University of Artificial Intelligence and Carnegie Mellon University.
 - *2022.08*: &nbsp;🎉🎉 I am a top reviewer of UAI'22.
 
-# 📝 Publications 
+# 📝 First Author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="150%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">NeurIPS 2024</div>
+            <img src='images/imdp_neurips24.png' alt="sym" style="height: 150%; width: auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+    </div>
+</div>
+
 
 [Identifying Latent State-Transition Processes for Individualized Reinforcement Learning](https://openreview.net/pdf?id=kREpCQtHdN)
 

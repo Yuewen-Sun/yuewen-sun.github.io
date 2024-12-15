@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuewen Sun"
 description              : "Postdoctoral Researcher "
-repository               : "Yuewen-Sun/yuewen_sun.github.io"
+repository               : "Yuewen-Sun/yuewen-sun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuewen Sun"
   avatar           : "images/temp.png"
-  bio              : "Mohamed bin Zayed University of Artificial Intelligence"
+  bio              : "MBZUAI & CMU"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 

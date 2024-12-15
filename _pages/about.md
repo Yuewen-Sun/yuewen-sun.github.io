@@ -55,7 +55,7 @@ My research interest includes causal representation learning and reinforcement l
 **Yuewen Sun**, Erli Wang, Biwei Huang, Chaochao Lu, Lu Feng, Changyin Sun, Kun Zhang 
 
 [**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/29442) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We analyze the feasibility of temporal causal modelling, utilize counterfactual reasoning to generate guided datasets, and unify them to a policy learner to generate policy making.
+- We utilize counterfactual reasoning to generate guided datasets and unify them to a policy learner to generate policy making.
 - We combines causal recovery with guided counterfactual data augmentation to realize sequential decision making across heterogeneous environments in a data-driven manner.
 
 </div>

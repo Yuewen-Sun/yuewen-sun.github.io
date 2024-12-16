@@ -19,13 +19,13 @@ redirect_from:
 
 I am currently a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and Carnegie Mellon University (CMU), supervised by Prof. Kun Zhang. I received my Ph.D. from Southeast University under the supervision of Prof. Changyin Sun.
 
-<!-- My research interests include causal representation learning and reinforcement learning, with publications <a href='https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability. -->
+My research interests include causal representation learning and reinforcement learning, with publications <a href='https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability.
 
-My research interests include causal representation learning and reinforcement learning, with publications 
+<!-- My research interests include causal representation learning and reinforcement learning, with publications 
 <a href='https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ'>
 <img src="https://img.shields.io/badge/Google%20Scholar-citations-blue?logo=google-scholar&style=flat">
 </a> 
-at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability.
+at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability. -->
 
 
 
@@ -96,14 +96,14 @@ conditions through proper constraints.
 - *2013.09 - 2017.06*, Bachelor of Financial Mathematics and Financial Engineering, Shandong University, China.  
 
 
-# 💬 Professional Services
-- **Conference Reviewer**: ICML, NeurIPS, ICLR, UAI
-- **Journal Reviewer**: ACM Computing Surveys
+# 📝 Professional Services
+- **Conference Reviewer**: ICML, NeurIPS, ICLR, UAI.
+- **Journal Reviewer**: ACM Computing Surveys.
 
 
 # 💬 Teaching and Talks
 - *2024.05*, **Invited Talk**: Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. 
-- *2024.01*, **Teaching Assistant**: Probabilistic and Statistical Inference, MBZUAI
+- *2024.01*, **Teaching Assistant**: Probabilistic and Statistical Inference, MBZUAI.
 <!-- - *2024.05*, Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. \| [\[video\]](https://github.com/) -->
 
 

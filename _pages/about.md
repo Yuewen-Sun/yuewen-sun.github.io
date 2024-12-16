@@ -95,7 +95,7 @@ conditions through proper constraints.
 
 
 # 📝 Services
-- **Conference Reviewer**: ICML, NeurIPS, ICLR, UAI.
+- **Conference Reviewer**: ICML, NeurIPS, ICLR, UAI, CLeaR.
 - **Journal Reviewer**: ACM Computing Surveys.
 
 

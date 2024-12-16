@@ -19,15 +19,16 @@ redirect_from:
 
 I am currently a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and Carnegie Mellon University (CMU), supervised by Prof. Kun Zhang. I received my Ph.D. from Southeast University under the supervision of Prof. Changyin Sun.
 
-My research interest includes causal representation learning and reinforcement learning. I have published papers <a href='https://scholar.google.com/citations?user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, AAAI.
+My research interests include causal representation learning and reinforcement learning, with publications <a href='https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability.
 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24. 
-- *2024.05*: &nbsp;🎉🎉 I made an invited talk on DataFunSummit2024. 
+- *2024.05*: I made an invited talk on DataFunSummit2024. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by AAAI'24. 
-- *2023.04*: &nbsp;🎉🎉 I started postdoctoral research at MBZUAI and CMU.
+- *2023.04*: I started postdoctoral research at MBZUAI and CMU.
 - *2022.08*: &nbsp;🎉🎉 I am a top reviewer of UAI'22.
+
 
 # 📝 First Author Publications 
 
@@ -79,6 +80,7 @@ conditions through proper constraints.
 
 # 🎖 Honors and Awards
 - *2022.08* Top reviewer of UAI'22.
+
 
 # 💼 Experience
 - *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI & CMU.

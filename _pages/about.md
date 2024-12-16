@@ -69,7 +69,9 @@ My research interests include causal representation learning and reinforcement l
 
 [Learning Temporally Causal Latent Processes from General Temporal Data](https://arxiv.org/abs/2110.05428)
 
-Weiran Yao<sup>\*</sup>, **Yuewen Sun<sup>\*</sup>**, Alex Ho, Changyin Sun, Kun Zhang (<sup>\*</sup>Equal contribution)
+Weiran Yao<sup>\*</sup>, **Yuewen Sun<sup>\*</sup>**, Alex Ho, Changyin Sun, Kun Zhang 
+
+(<sup>\*</sup>Equal contribution)
 
 [**Project**](https://github.com/weirayao/leap) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose two provable conditions under which temporally causal latent processes can be identified from their observed nonlinear mixtures.

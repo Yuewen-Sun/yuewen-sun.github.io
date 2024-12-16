@@ -85,10 +85,6 @@ conditions through proper constraints.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2022.08* Top reviewer of UAI'22.
-
-
 # 💼 Experience
 - *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI & CMU.
 - *2021.02 - 2021.10* (Internship), NEC Laboratories, China. 
@@ -100,6 +96,16 @@ conditions through proper constraints.
 - *2013.09 - 2017.06*, Bachelor of Financial Mathematics and Financial Engineering, Shandong University, China.  
 
 
-# 💬 Invited Talks
-- *2024.05*, Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. 
+# 💬 Professional Services
+- **Conference Reviewer**: ICML, NeurIPS, ICLR, UAI
+- **Journal Reviewer**: ACM Computing Surveys
+
+
+# 💬 Teaching and Talks
+- *2024.05*, **Invited Talk**: Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. 
+- *2024.01*, **Teaching Assistant**: Probabilistic and Statistical Inference, MBZUAI
 <!-- - *2024.05*, Causal Representation Learning: Theoretical Innovations and Practical Applications, DataFunSummit2024. \| [\[video\]](https://github.com/) -->
+
+
+# 🎖 Honors and Awards
+- *2022.08* Top reviewer of UAI'22.

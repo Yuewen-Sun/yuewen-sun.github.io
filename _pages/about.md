@@ -15,11 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+https://raw.githubusercontent.com/
+
 <span class='anchor' id='about-me'></span>
 
 I am currently a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and Carnegie Mellon University (CMU), collaborating with Prof. Kun Zhang. I received my Ph.D. from Southeast University under the supervision of Prof. Changyin Sun.
 
-My research interests include causal representation learning and reinforcement learning, with publications <a href='https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYuewen-Sun%2FYuewen-Sun.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability.
+My research interests include causal representation learning and reinforcement learning, with publications <a href='https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Yuewen-Sun/yuewen-sun.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top AI conferences such as NeurIPS, ICLR, and AAAI. My recent work focuses on multimodal causal representation learning and its applications in healthcare to address challenges in identifiability.
 
 
 

@@ -31,13 +31,3 @@ redirect_from:
 {% include_relative includes/6-talks.md %}
 
 {% include_relative includes/7-honors.md %}
-
-
-
-
-
-
-
-
-
-

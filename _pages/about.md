@@ -85,7 +85,7 @@ conditions through proper constraints.
 
 # 💼 Experience
 - *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI and CMU.
-- *2021.02 - 2021.10*, Internship, NEC Laboratories, China. 
+- *2021.03 - 2021.09*, Internship, NEC Laboratories, China. 
 
 
 # 📖 Educations

@@ -27,7 +27,7 @@ author:
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=LboR1toAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LboR1toAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "yuewen.sun@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0002-4842-1608
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

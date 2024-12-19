@@ -9,7 +9,7 @@
 title                    : "Yuewen Sun"
 description              : "Postdoctoral Researcher "
 repository               : "Yuewen-Sun/yuewen-sun.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0009-0002-4842-1608
+  orcid            :  # https://orcid.org/0009-0002-4842-1608
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

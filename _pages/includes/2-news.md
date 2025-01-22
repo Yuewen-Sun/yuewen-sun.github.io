@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR'25. 
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24. 
 - *2024.05*: I gave an invited talk on DataFunSummit2024. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by AAAI'24. 

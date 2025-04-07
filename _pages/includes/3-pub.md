@@ -1,6 +1,6 @@
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/multimodal_iclr2025.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/multimodal_iclr2025.png' alt="sym" width="80%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -18,7 +18,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="80%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -34,7 +34,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/acamda_aaai24.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/acamda_aaai24.png' alt="sym" width="80%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ACAMDA: Improving Data Efficiency in Reinforcement Learning Through Guided Counterfactual Data Augmentation](https://ojs.aaai.org/index.php/AAAI/article/view/29442/30719)
@@ -48,7 +48,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/leap_iclr22.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/leap_iclr22.png' alt="sym" width="80%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Temporally Causal Latent Processes from General Temporal Data](https://arxiv.org/abs/2110.05428)

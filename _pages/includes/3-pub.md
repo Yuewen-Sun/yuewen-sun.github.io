@@ -10,8 +10,7 @@
 (<sup>\*</sup>Equal contribution)
 
 [**Project**](https://openreview.net/forum?id=hjROBHstZ3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Theoretically, we establish identifiability guarantees for the latent components under multimodal observations
-- Empirically, we develop an estimation framework to recover the latent components within each modality
+- Theoretically, we establish identifiability guarantees for the latent components under multimodal observations. Empirically, we develop an estimation framework to recover the latent components within each modality
 
 </div>
 </div>

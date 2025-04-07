@@ -1,7 +1,22 @@
-# 📝 First Author Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+[Causal Representation Learning from Multimodal Biomedical Observations](https://openreview.net/pdf?id=hjROBHstZ3)
+
+**Yuewen Sun<sup>\*</sup>**, Lingjing Kong<sup>\*</sup>, Guangyi Chen, Loka Li, Gongxu Luo, Zijian Li, Yixuan Zhang, Yujia Zheng, Mengyue Yang, Petar Stojanov, Eran Segal, Eric P. Xing, Kun Zhang
+
+(<sup>\*</sup>Equal contribution)
+
+[**Project**](https://openreview.net/forum?id=hjROBHstZ3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We aim to identify the latent state-transition processes from observed state-action trajectories, facilitating the learning of personalized RL policies.
+- Theoretical identifiability is guaranteed under both finite and infinite latent factor conditions, supporting the framework’s robustness.
+
+</div>
+</div>
+
 
 [Identifying Latent State-Transition Processes for Individualized RL](https://openreview.net/pdf?id=kREpCQtHdN)
 

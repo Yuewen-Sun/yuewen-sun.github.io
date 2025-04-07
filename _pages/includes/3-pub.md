@@ -1,6 +1,6 @@
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/multimodal_iclr2025.png' alt="sym" width="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -16,6 +16,10 @@
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/imdp_neurips24.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box-text' markdown="1">
 
 
 [Identifying Latent State-Transition Processes for Individualized RL](https://openreview.net/pdf?id=kREpCQtHdN)

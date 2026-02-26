@@ -1,11 +1,13 @@
 # 🔥 News
-- *2025.10*: I have been selected as a Top Reviewer in NeurIPS'25. 
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS'25. 
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR'25. 
-- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24. 
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted to ICLR'26. Congrats to everyone on their hard work!
+- *2025.10*: I was awarded Top Reviewer for NeurIPS'25. 
+- *2025.09*: &nbsp;🎉🎉 One paper has been accepted to NeurIPS'25. Congrats to everyone on their hard work!
+- *2025.08*: I am serving as an Area Chair for ICLR'26.  
+- *2025.01*: &nbsp;🎉🎉 One paper has been accepted to ICLR'25. Congrats to everyone on their hard work!
+- *2024.12*: &nbsp;🎉🎉 Two papers have been accepted to NeurIPS'24. Congrats to everyone on their hard work!
 - *2024.05*: I gave an invited talk on DataFunSummit2024. 
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by AAAI'24. 
+- *2024.01*: &nbsp;🎉🎉 One paper has been accepted to AAAI'24. Congrats to everyone on their hard work!
 - *2023.04*: I started postdoctoral research at MBZUAI and CMU.
-- *2023.02*: &nbsp;🎉🎉 One paper is published in TNNLS. 
-- *2022.08*: &nbsp;🎉🎉 I am a top reviewer of UAI'22.
-- *2022.05*: &nbsp;🎉🎉 One paper is accepted by ICLR'22. 
+- *2023.02*: &nbsp;🎉🎉 One paper has been published in TNNLS. Congrats to everyone on their hard work!
+- *2022.08*: &nbsp;🎉🎉 I was awarded Top Reviewer for UAI'22.
+- *2022.05*: &nbsp;🎉🎉 One paper has been accepted to ICLR'22. Congrats to everyone on their hard work!

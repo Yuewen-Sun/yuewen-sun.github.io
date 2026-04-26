@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: I am serving as an Area Chair for NeurIPS'26.  
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted to ICLR'26. Congrats to everyone on their hard work!
 - *2025.10*: I was awarded Top Reviewer for NeurIPS'25. 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted to NeurIPS'25. Congrats to everyone on their hard work!

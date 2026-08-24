@@ -1,5 +1,5 @@
 # 💼 Experience
-- *2023.04 - Now*, Postdoctoral Researcher, Department of Machine Learning, MBZUAI and CMU.
+- *2023.04 - Now*, Postdoctoral Researcher, MBZUAI and CMU.
 - *2021.03 - 2021.09*, Internship, NEC Laboratories, China. 
 
 

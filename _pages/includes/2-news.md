@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: I am serving as an Area Chair for ICML'27.  
 - *2026.08*: I am serving as an Area Chair for ICLR'27.  
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted to ECCV'26. Congrats to everyone on their hard work!
 - *2026.03*: I am serving as an Area Chair for NeurIPS'26.  
